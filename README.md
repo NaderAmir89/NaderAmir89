@@ -1,45 +1,63 @@
-<div align="center" width="50">
+<div align="center">
 
-<!-- Intro GIFs -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%" /><br>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="40%" />
 
 <details>
-<p><strong> <summary>Busy coding & Vibing to:</summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
+  <summary>🎧 Busy Coding & Vibing To</summary>
+  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 </details>
 
-<!-- Profile hits -->
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=NaderAmir&style=flat&color=orange)
+[![Telegram](https://img.shields.io/badge/Telegram-NaderAmir-blue?style=flat&logo=telegram)](https://t.me/spxd007)
+
 </div>
 
-<hr>
+---
 
-<!-- Tools & Languages -->
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=#61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+## 👨‍💻 About Me
 
-```dart
-// My tools & stack organized
-class AboutMe {
-  const skills = {
-    "ProgrammingLanguages": {"Python", "Dart", "JavaScript", "Java", "C++"},
-    "WebTech": {"HTML", "CSS", "React"},
-    "Databases": {"Firebase", "SQLite"},
-    "Editors": {"VSCode", "Sublime", "Neovim"},
-    "Platforms": {"Windows", "Linux", "Mac"},
-    "OtherTools": {"Git", "Figma", "Photoshop", "Gimp", "Lightroom"}
-  };
-}
+- Hey! I'm **Nader Amir**, AI enthusiast & Front-End Developer.  
+- مهتم بالذكاء الاصطناعي وبتطوير واجهات المستخدم المبتكرة.  
+- أحب أستكشف **تقنيات جديدة** واشتغل على مشاريع تفاعلية وجذابة.  
+- Always learning **Flutter, Web Development & AI**.  
+
+---
+
+## 🛠 My Tools & Skills
+
+**Programming Languages:** Python, Dart, JavaScript, Java, C++  
+**Web Development:** HTML, CSS, React, React Native  
+**Databases & Backend:** Firebase, SQLite  
+**Editors & IDEs:** VSCode, Sublime Text, Neovim  
+**Design Tools:** Figma, Photoshop, Gimp, Lightroom  
+**Platforms:** Windows, Linux, Mac  
+**Version Control:** Git  
+
+---
+
+## 🌱 What I'm Doing
+
+- Building AI-powered projects and interactive web apps.  
+- Learning advanced **Flutter UI & Web Animations**.  
+- Exploring **GNU/Linux environments** and developer workflows.  
+
+---
+
+## 📫 Connect With Me
+
+- Telegram: [Nader Amir](https://t.me/spxd007)  
+- GitHub: [github.com/NaderAmir](https://github.com/NaderAmir)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaderAmir&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaderAmir&layout=compact&theme=radical)
+
+</div>
+
+---
+
+> Fun Fact: Banging your head against a wall for one hour burns **150 calories** 😅
