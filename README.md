@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="40%" />
 
 <details>
-  <summary>Busy Coding & Vibing To</summary>
+  <summary>🎧 Busy Coding & Vibing To</summary>
   [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 </details>
 
@@ -31,57 +31,54 @@
 
 ---
 
-About Me
+About Me ✨
 
-Hi, I'm Nader Amir, AI enthusiast and Front-End Developer. I work on creating interactive web apps and AI-powered projects. I enjoy exploring new technologies and building visually appealing user interfaces. Currently learning Flutter and advanced Web Development.
-
----
-
-Tools & Skills
-
-Programming Languages: Python, HTML, CSS, C++, JavaScript  
-Web Development: React, React Native  
-Databases & Backend: Firebase, SQLite  
-Editors & IDEs: VSCode, Sublime Text, Neovim  
-Design Tools: Figma, Photoshop, Gimp, Lightroom  
-Platforms: Windows, Linux, Mac  
-Version Control: Git  
+Hi, I'm Nader Amir, an AI enthusiast and Front-End Developer.  
+I love building interactive web apps and experimenting with AI-powered projects.  
+Passionate about learning new technologies, exploring Flutter, Web Development, and creative UI designs.  
+Always curious, always coding 💻  
 
 ---
 
-Current Focus
+Tools & Skills 🛠️
 
-Building AI-powered applications and interactive web apps.  
-Learning advanced Flutter UI and Web Animations.  
-Exploring GNU/Linux environments and developer workflows.  
-
----
-
-AI Projects
-
-1. Smart Chatbot
-<img src="https://raw.githubusercontent.com/NaderAmir/assets/main/chatbot_demo.gif" width="45%" />
-Description: An AI-powered chatbot that answers user questions and learns from interactions.  
-Tech Stack: Python, TensorFlow, NLP  
-Live Demo: [Try it here](https://naderamir-chatbot-demo.netlify.app)  
-GitHub Repo: [Smart Chatbot](https://github.com/NaderAmir/Smart-Chatbot)
-
-2. AI Image Classifier
-<img src="https://raw.githubusercontent.com/NaderAmir/assets/main/image_classifier_demo.gif" width="45%" />
-Description: A machine learning model that classifies images into multiple categories.  
-Tech Stack: Python, TensorFlow, Keras  
-Live Demo: [Try it here](https://naderamir-image-classifier.netlify.app)  
-GitHub Repo: [AI Image Classifier](https://github.com/NaderAmir/AI-Image-Classifier)
-
-3. AI Stock Predictor
-<img src="https://raw.githubusercontent.com/NaderAmir/assets/main/stock_predictor_demo.gif" width="45%" />
-Description: Predicts stock prices using historical data and ML models.  
-Tech Stack: Python, Scikit-Learn, Pandas  
-GitHub Repo: [AI Stock Predictor](https://github.com/NaderAmir/AI-Stock-Predictor)
+Programming Languages: Python 🐍, HTML 🌐, CSS 🎨, C++ 💻, JavaScript ⚡  
+Web Development: React ⚛️, React Native 📱  
+Databases & Backend: Firebase 🔥, SQLite 🗄️  
+Editors & IDEs: VSCode 💻, Sublime Text 📝, Neovim 🖤  
+Design Tools: Figma 🎨, Photoshop 🖌️, Gimp 🖼️, Lightroom 🌈  
+Platforms: Windows 🪟, Linux 🐧, Mac 🍎  
+Version Control: Git 🔧  
 
 ---
 
-Connect With Me
+Current Focus 🌱
+
+- Building AI-powered applications and interactive web apps 🤖  
+- Learning advanced Flutter UI and Web Animations ✨  
+- Exploring GNU/Linux environments and developer workflows 🐧  
+
+---
+
+AI Projects 🔥
+
+Here are some AI projects I am working on:
+
+1. Smart Chatbot 🤖
+   Description: AI-powered chatbot for interactive conversations.  
+   Tech Stack: Python, TensorFlow, NLP  
+
+2. AI Image Classifier 🖼️  
+   Description: Classifies images into multiple categories using ML.  
+   Tech Stack: Python, TensorFlow, Keras  
+
+3. AI Stock Predictor 📈  
+   Description: Predicts stock prices using historical data and ML models.  
+   Tech Stack: Python, Scikit-Learn, Pandas  
+
+---
+
+Connect With Me 📫
 
 Telegram: [Nader Amir](https://t.me/spxd007)  
 GitHub: [github.com/NaderAmir](https://github.com/NaderAmir)
