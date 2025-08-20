@@ -1,5 +1,14 @@
 <div align="center">
 
+<h1>Hi, I'm Nader Amir 👋</h1>
+<h2>AI Enthusiast | Front-End Developer | Web & Flutter Dev</h2>
+
+<!-- Dynamic Badges for your specialties -->
+<img src="https://img.shields.io/badge/AI-Deep%20Learning-blue?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="AI Badge" />
+<img src="https://img.shields.io/badge/Front--End-React-yellow?style=for-the-badge&logo=react&logoColor=white" alt="Front-End Badge" />
+<img src="https://img.shields.io/badge/Flutter-MobileDev-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge" />
+<img src="https://img.shields.io/badge/Web-Development-green?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev Badge" />
+
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%" /><br>
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="40%" />
 
