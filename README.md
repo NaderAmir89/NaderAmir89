@@ -45,7 +45,7 @@
 
 ---
 
-## 🌱 What I'm Doing
+🌱 What I'm Doing
 
 - Building AI-powered projects and interactive web apps.  
 - Learning advanced **Flutter UI & Web Animations**.  
@@ -53,33 +53,33 @@
 
 ---
 
-## 🤖 AI Projects
+🤖 AI Projects
 
 Here are some AI projects I've worked on:
 
-### 1. **Smart Chatbot 🤖**
+1. Smart Chatbot 🤖
 <img src="https://raw.githubusercontent.com/NaderAmir/assets/main/chatbot_demo.gif" width="45%" />
-- **Description:** An AI-powered chatbot that answers user questions and learns from interactions.
-- **Tech Stack:** Python, TensorFlow, NLP
-- **Live Demo:** [Try it here](https://naderamir-chatbot-demo.netlify.app)
-- **GitHub Repo:** [Smart Chatbot](https://github.com/NaderAmir/Smart-Chatbot)
+- Description: An AI-powered chatbot that answers user questions and learns from interactions.
+- Tech Stack: Python, TensorFlow, NLP
+- Live Demo: [Try it here](https://naderamir-chatbot-demo.netlify.app)
+- GitHub Repo: [Smart Chatbot](https://github.com/NaderAmir/Smart-Chatbot)
 
-### 2. **AI Image Classifier 🖼️**
+2. AI Image Classifier 🖼️
 <img src="https://raw.githubusercontent.com/NaderAmir/assets/main/image_classifier_demo.gif" width="45%" />
-- **Description:** A machine learning model that classifies images into multiple categories.
-- **Tech Stack:** Python, TensorFlow, Keras
-- **Live Demo:** [Try it here](https://naderamir-image-classifier.netlify.app)
-- **GitHub Repo:** [AI Image Classifier](https://github.com/NaderAmir/AI-Image-Classifier)
+- Description: A machine learning model that classifies images into multiple categories.
+- Tech Stack: Python, TensorFlow, Keras
+- Live Demo: [Try it here](https://naderamir-image-classifier.netlify.app)
+- GitHub Repo: [AI Image Classifier](https://github.com/NaderAmir/AI-Image-Classifier)
 
-### 3. **AI Stock Predictor 📈**
+3. AI Stock Predictor 📈
 <img src="https://raw.githubusercontent.com/NaderAmir/assets/main/stock_predictor_demo.gif" width="45%" />
-- **Description:** Predicts stock prices using historical data and ML models.
-- **Tech Stack:** Python, Scikit-Learn, Pandas
-- **GitHub Repo:** [AI Stock Predictor](https://github.com/NaderAmir/AI-Stock-Predictor)
+- Description: Predicts stock prices using historical data and ML models.
+- Tech Stack: Python, Scikit-Learn, Pandas
+- GitHub Repo: [AI Stock Predictor](https://github.com/NaderAmir/AI-Stock-Predictor)
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
 
 - Telegram: [Nader Amir](https://t.me/spxd007)  
 - GitHub: [github.com/NaderAmir](https://github.com/NaderAmir)
