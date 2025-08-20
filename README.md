@@ -3,17 +3,24 @@
 <h1>Hi, I'm Nader Amir 👋</h1>
 <h2>AI Enthusiast | Front-End Developer | Web & Flutter Dev</h2>
 
-<!-- Dynamic Badges for your specialties -->
+<!-- Dynamic Badges for specialties -->
 <img src="https://img.shields.io/badge/AI-Deep%20Learning-blue?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="AI Badge" />
-<img src="https://img.shields.io/badge/Front--End-React-yellow?style=for-the-badge&logo=react&logoColor=white" alt="Front-End Badge" />
+<img src="https://img.shields.io/badge/Front-End-React-yellow?style=for-the-badge&logo=react&logoColor=white" alt="Front-End Badge" />
 <img src="https://img.shields.io/badge/Flutter-MobileDev-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge" />
 <img src="https://img.shields.io/badge/Web-Development-green?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev Badge" />
+
+<!-- Badges for programming languages -->
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%" /><br>
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="40%" />
 
 <details>
-  <summary>🎧 Busy Coding & Vibing To</summary>
+  <summary>Busy Coding & Vibing To</summary>
   [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 </details>
 
@@ -24,65 +31,60 @@
 
 ---
 
-## 👨‍💻 About Me
+About Me
 
-- Hey! I'm **Nader Amir**, AI enthusiast & Front-End Developer.  
-- مهتم بالذكاء الاصطناعي وبتطوير واجهات المستخدم المبتكرة.  
-- أحب أستكشف **تقنيات جديدة** واشتغل على مشاريع تفاعلية وجذابة.  
-- Always learning **Flutter, Web Development & AI**.  
+Hi, I'm Nader Amir, AI enthusiast and Front-End Developer. I work on creating interactive web apps and AI-powered projects. I enjoy exploring new technologies and building visually appealing user interfaces. Currently learning Flutter and advanced Web Development.
 
 ---
 
-## 🛠 My Tools & Skills
+Tools & Skills
 
-**Programming Languages:** Python, Dart, JavaScript, Java, C++  
-**Web Development:** HTML, CSS, React, React Native  
-**Databases & Backend:** Firebase, SQLite  
-**Editors & IDEs:** VSCode, Sublime Text, Neovim  
-**Design Tools:** Figma, Photoshop, Gimp, Lightroom  
-**Platforms:** Windows, Linux, Mac  
-**Version Control:** Git  
-
----
-
-🌱 What I'm Doing
-
-- Building AI-powered projects and interactive web apps.  
-- Learning advanced **Flutter UI & Web Animations**.  
-- Exploring **GNU/Linux environments** and developer workflows.  
+Programming Languages: Python, HTML, CSS, C++, JavaScript  
+Web Development: React, React Native  
+Databases & Backend: Firebase, SQLite  
+Editors & IDEs: VSCode, Sublime Text, Neovim  
+Design Tools: Figma, Photoshop, Gimp, Lightroom  
+Platforms: Windows, Linux, Mac  
+Version Control: Git  
 
 ---
 
-🤖 AI Projects
+Current Focus
 
-Here are some AI projects I've worked on:
+Building AI-powered applications and interactive web apps.  
+Learning advanced Flutter UI and Web Animations.  
+Exploring GNU/Linux environments and developer workflows.  
 
-1. Smart Chatbot 🤖
+---
+
+AI Projects
+
+1. Smart Chatbot
 <img src="https://raw.githubusercontent.com/NaderAmir/assets/main/chatbot_demo.gif" width="45%" />
-- Description: An AI-powered chatbot that answers user questions and learns from interactions.
-- Tech Stack: Python, TensorFlow, NLP
-- Live Demo: [Try it here](https://naderamir-chatbot-demo.netlify.app)
-- GitHub Repo: [Smart Chatbot](https://github.com/NaderAmir/Smart-Chatbot)
+Description: An AI-powered chatbot that answers user questions and learns from interactions.  
+Tech Stack: Python, TensorFlow, NLP  
+Live Demo: [Try it here](https://naderamir-chatbot-demo.netlify.app)  
+GitHub Repo: [Smart Chatbot](https://github.com/NaderAmir/Smart-Chatbot)
 
-2. AI Image Classifier 🖼️
+2. AI Image Classifier
 <img src="https://raw.githubusercontent.com/NaderAmir/assets/main/image_classifier_demo.gif" width="45%" />
-- Description: A machine learning model that classifies images into multiple categories.
-- Tech Stack: Python, TensorFlow, Keras
-- Live Demo: [Try it here](https://naderamir-image-classifier.netlify.app)
-- GitHub Repo: [AI Image Classifier](https://github.com/NaderAmir/AI-Image-Classifier)
+Description: A machine learning model that classifies images into multiple categories.  
+Tech Stack: Python, TensorFlow, Keras  
+Live Demo: [Try it here](https://naderamir-image-classifier.netlify.app)  
+GitHub Repo: [AI Image Classifier](https://github.com/NaderAmir/AI-Image-Classifier)
 
-3. AI Stock Predictor 📈
+3. AI Stock Predictor
 <img src="https://raw.githubusercontent.com/NaderAmir/assets/main/stock_predictor_demo.gif" width="45%" />
-- Description: Predicts stock prices using historical data and ML models.
-- Tech Stack: Python, Scikit-Learn, Pandas
-- GitHub Repo: [AI Stock Predictor](https://github.com/NaderAmir/AI-Stock-Predictor)
+Description: Predicts stock prices using historical data and ML models.  
+Tech Stack: Python, Scikit-Learn, Pandas  
+GitHub Repo: [AI Stock Predictor](https://github.com/NaderAmir/AI-Stock-Predictor)
 
 ---
 
-📫 Connect With Me
+Connect With Me
 
-- Telegram: [Nader Amir](https://t.me/spxd007)  
-- GitHub: [github.com/NaderAmir](https://github.com/NaderAmir)
+Telegram: [Nader Amir](https://t.me/spxd007)  
+GitHub: [github.com/NaderAmir](https://github.com/NaderAmir)
 
 ---
 
@@ -95,4 +97,4 @@ Here are some AI projects I've worked on:
 
 ---
 
-> Fun Fact: Banging your head against a wall for one hour burns **150 calories** 😅
+Fun Fact: Banging your head against a wall for one hour burns 150 calories 😅
